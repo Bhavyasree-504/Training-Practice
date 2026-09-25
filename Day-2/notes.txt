@@ -1,0 +1,14 @@
+Attributes:
+--Additional information given to the tag
+--Always in starting (opening)tag ,key-value pairs
+
+In gitIgnore folder we can place the files which we dont want to be in repository
+git checkout -to create a branch
+
+Unpaired tags:
+Also called self closing tags
+Examples:br,image,hr,meta,input,link
+
+<image> tag: 
+Attributes:
+*src -absolute(browser images) ,relative
