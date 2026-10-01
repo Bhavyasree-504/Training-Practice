@@ -1,0 +1,72 @@
+Javascript-
+    Javascript is called scripting languange and a progrmming language(OOPS followed)
+    It is dynamically typed language
+    (Compiler used programming language is statistically typed-need to provide declaration of the variable type)
+    have single call stack
+    doesnot support multi threading
+    Inroduced in 1994,initial name is mocha (1995)-.=>net scope(browser company)
+    mocha
+    |
+    live script
+    |
+    java script
+    |
+    (bought)ECMA ->added new features->releases 1st version
+
+    Stable version:ES6
+    Present version:ES16
+
+    Uses:
+        for building dynamic web applications
+        we can add functionality to web pages
+        we can achieve Document Object Model funtinalities,using that we can manipulate html and css\
+        we can fetch data from server and also send data to server(API's)
+
+    Implementation:
+    Inline Javascript
+    Internal Javascript
+    External Javascript
+
+defer-is the attribute to make the java script load at the end
+async=true
+
+============================================================================================
+Assignment-Write and down 15 browser names and their respective javascript engine names
+============================================================================================
+Tokens-
+    tokens are the smallest units in the js code
+    Type:
+    Identifiers -> Names given to the code,keywords cant be used as the Identifiers
+    Ex:Varible name,class name,function name
+    keywords ->66(5 are depricated),predefined words which have its own meaning
+    literals
+     Operator:Symbols used to perform operations on operands
+    seperators:To seperate the code 
+    Ex:. , "" '' : ; () {} [] <>
+    comments:Single line //
+    multi line /*      */
+
+    == checks only values
+    === value+data type
+=====================================================================================
+DataTypes:Datatypes represent the what of data we are storing on that variable
+1.)Primitive datatype:Single value is solved at a time
+Ex:numer,storing,boolean,null,undefined
+mutable
+
+2.)Non-primitive Datatypes:
+    Arrays -linear data structure used to store colllection of homogenew=ous and heterogeneous data DataTypes
+        Array Declaration:
+        1.literal way
+        2.using new keyword
+        Spread opearator usage in arrays
+
+    
+    objects
+    functions
+
+let arr[]=[1,2,4,5,6]
+let [a,b,c,d,e]=arr[]
+This is called destrcuturing
+
+    
