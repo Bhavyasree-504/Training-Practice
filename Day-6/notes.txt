@@ -1,0 +1,145 @@
+Javascript : 
+------------
+    ->Javascript is scripting language as well as programming language 
+    ->Js is Dynamically typed programming
+    ->JS having single Call Stack 
+
+
+Uses: 
+    ->using Javascript we can build Dynamic web applications
+    ->using JS we can add functionalities to Web pages 
+    ->here We can achieve DOM(Document Object Model) functionalities using that we can manipulate HTML and CSS
+    ->We can Fetch data from server(API's) and also send data to Server (API's) 
+1991
+mocha ->1995 -> net scope (browser company) 
+|
+live script
+|
+javascript 
+|
+ECMA ->added new feature ->release 1st version ->ES1(ECMA script version1) -->1996
+
+stable version ->ES6 
+
+present version ->ES16
+
+Implements : 
+-------------
+    1. Inline  JS
+    2. Internal JS
+    3. External JS 
+
+
+Tokens : 
+-------
+    ->tokens are the smallest units in JS Code 
+
+    Types; 
+        1. Identifiers 
+            ->Identifiers are the names given to the code 
+            ->In the place Identifiers we can 't use Keywords
+            ->Ex: variable name , class names , function name (method names)
+
+        2. Keywords 
+            ->Keywords are the predefine words which have its own meaning 
+            ->In JS total 66 keywords   
+            Ex: 
+
+
+
+        3. Literals 
+
+        4. Operators 
+        5. Separators 
+            Ex: . , ,"" , '' ,`` ,;,: ,{} ,[] ,(), <> 
+        6. Comments 
+            1. single line Comments   // 
+            2. multi line Comments   /* 
+                                            */ 
+
+
+DataTypes: 
+-----------
+    ->DataTypes represent the what of data we are storing on that variable 
+
+    Types: 
+        1. Primitive  DataTypes 
+            i. number 
+            ii.string 
+            iii. boolean 
+            iv . null 
+            v. undefine 
+            vi. symbol 
+            vii. bigint
+
+
+        2. Non Primitive  DataTypes
+            i. Arrays
+                ->Arrays are the linear data structures used to store collection of homogenous or heterogenous data 
+
+                In JS Arrays Declaration : 
+                --------------------------
+                    1. literal way 
+                    2. using new keyword (object)
+
+                    Loops : 
+                    -------
+                        1. for loop 
+                        2. while loop 
+                        3. do while loop 
+                        4. for-of loop (arrays / strings) ->only values
+                        5. for-in loop (arrays / strings) ->only index's 
+                        6. forEach loop 
+
+
+                        7. map()
+                        8. filter()
+                        9. reduce()
+
+
+
+            ii.Objects
+                ->Objects are the real time entities used to store data in the from key and value pair  
+                In JS Objects Declaration : 
+                --------------------------
+                    1. literal way 
+                            Syntax: 
+                                    variableType variableName={
+                                                    key1:value,
+                                                    key2:value 
+                                                }
+
+
+                    2. using new keyword (object)
+                            Syntax: 
+                                    variableType variableName=new Object({
+                                                    key1:value,
+                                                    key2:value 
+                                                })
+
+            iii.functions
+                ->functions are the block of statements which will get execute when ever it called 
+
+                Notes: 
+                    ->Using functions we can perform Code reusability
+                    ->And Also increase Code readability 
+
+            Types: 
+            -------
+                1. User Define functions 
+                2. Predefine functions 
+
+    In Js we can Declare  functions  in many ways(classifications)
+    ---------------------------------------------------------------
+        1. Anonymous function
+        2. normal/named function
+        3. functional expression
+        4. first class function
+        5. immediate invoking function(IIF) / self calling function
+        6. Arrow function (ES6 )
+        7. Nested functions 
+        8. higher order function
+        9. callback function
+        10. generator function
+        
+
